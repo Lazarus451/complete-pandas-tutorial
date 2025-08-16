@@ -1,3 +1,15 @@
+# Installing in my Pycharm with Fish shell
+source venv/bin/activate.fish
+
+# Naming as venv
+python3 -m venv .venv
+
+# Activation
+source .venv/bin/activate.fish
+
+
+
+
 # Complete Pandas Tutorial
 A comprehensive tutorial on the Python Pandas library, updated to be consistent with best practices and features available in 2024.
 
